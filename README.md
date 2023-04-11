@@ -5,4 +5,4 @@ This code modify from https://gist.github.com/mamins1376/2066828739627d15c112dd4
 to make it can solve all possible solutions
 
 # compile method
-gcc -o sudoku sudoku.c
+gcc -o sudoku_simple sudoku_simple.c
